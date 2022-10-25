@@ -2,5 +2,5 @@ x the rover is given a starting position and direction it faces ('N','S','E','W'
 x the rover receives character array of command
 x the rover has a function to move forward and backward
 x the rover has a function to move left and right
-- the rover has function to wrap up at the edges
+x the rover has function to wrap up at the edges. Assumed that 100 is the row and col limit
 - the rover has function to detect obstacle and raise the obstacle. Move to last point before that.
