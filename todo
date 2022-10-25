@@ -1,0 +1,6 @@
+- the rover is given a starting position and direction it faces
+- the rover receives character array of command
+- the rover has a function to move forward and backward
+- the rover has a function to move left and right
+- the rover has function to wrap up at the edges
+- the rover has function to detect obstacle and raise the obstacle. Move to last point before that.
